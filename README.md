@@ -15,4 +15,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://komarev.com/ghpvc/?himmetsepik)
+![](https://komarev.com/ghpvc/?username=himmetsepik&color=green)
