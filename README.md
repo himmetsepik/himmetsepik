@@ -1,6 +1,12 @@
 # 💫 About Me:
 <h1>Himmet Şepik</h1>
-<br>I am an information security technology student.<br><br> I’m currently learning SQL, PYTHON, C#
+<br>I am an information security technology student.<br><br>
+🌱 Currently Learning
+
+- Python
+- C#
+- SQL Server
+- Cyber Security
 
 
 ## 🌐 Socials:
