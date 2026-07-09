@@ -15,29 +15,7 @@ I am currently improving myself by creating real projects, publishing them on Gi
 * Cyber Security
 * Android Development
 * HTML, CSS and JavaScript
-* Git & GitHub
 
-## 🚀 My Projects
-
-### Android Projects
-
-* Android Mini Projects Pack
-* Mini Games App
-* Personal Finance App
-* Password Vault App
-* Driving Notes App
-* Exam Countdown App
-* Debt Tracker App
-* Simple Counter Apps
-
-### Desktop & Web Projects
-
-* Password Generator
-* BudgetMateApp
-* Fast Typing Test
-* Personal Link Page
-* Student Management System
-* Desktop Widgets App
 
 ## 🌐 Socials & Links
 
@@ -57,14 +35,7 @@ I am currently improving myself by creating real projects, publishing them on Gi
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge\&logo=microsoft%20sql%20server\&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=himmetsepik\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himmetsepik\&theme=dark\&hide_border=false\&layout=compact)
 
 ## 👀 Profile Views
 
